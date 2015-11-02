@@ -9,16 +9,16 @@
 Pod::Spec.new do |s|
 
   s.name         = "XinCategories"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "XinCategories summary"
   s.homepage     = "https://github.com/xineason/objectC"
   s.license      = 'MIT'
 
-  s.author       = { "xineason" => "y.xinetd@yahoo.com" }
+  s.author       = { "xineason" => "y.xinetd@gmail.com" }
 
   s.platform     = :ios, '7.0'
 
-  s.source       = { :git => "https://github.com/xineason/objectC.git", :tag => "1.0.0"}
+  s.source       = { :git => "https://github.com/xineason/objectC.git", :tag => "1.0.2"}
   s.source_files  = 'XinCategories/*.{h,m}'
   s.exclude_files = 'XinCategories'
 
